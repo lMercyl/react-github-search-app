@@ -1,4 +1,4 @@
-# react-github-serach
+# react-github-search
 
 Stack: React, SCSS, axios
 
